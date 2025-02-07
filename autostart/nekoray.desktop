@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=NekoRay
-Exec=/usr/bin/nekobox
-StartupNotify=false
-X-GNOME-Autostart-enabled=true
